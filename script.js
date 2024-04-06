@@ -30,7 +30,7 @@ while (tanya) {
         } else {
             hasil = 'KALAH!';
         }
-    } else if (choose == ' batu') {
+    } else if (choose == 'batu') {
         if (comp == 'kertas') {
             hasil = 'KALAH!';
         } else {
